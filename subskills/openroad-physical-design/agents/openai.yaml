@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenROAD Physical Design"
+  short_description: "Guide digital backend flow with OpenROAD"
+  default_prompt: "Use $openroad-physical-design to plan or debug an RTL-to-GDS physical design task."

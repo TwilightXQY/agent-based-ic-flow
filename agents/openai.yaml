@@ -1,0 +1,7 @@
+interface:
+  display_name: "IC/EDA Flow"
+  short_description: "Routes IC and EDA design workflows"
+  default_prompt: "Use $ic-eda-flow to inspect my IC or EDA task and choose the right simulation, verification, or physical-design workflow."
+
+policy:
+  allow_implicit_invocation: true

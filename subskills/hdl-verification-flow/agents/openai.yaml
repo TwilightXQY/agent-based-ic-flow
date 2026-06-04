@@ -1,0 +1,4 @@
+interface:
+  display_name: "HDL Verification Flow"
+  short_description: "Guide Verilator and cocotb test workflows"
+  default_prompt: "Use $hdl-verification-flow to set up or debug Verilog or SystemVerilog verification with Verilator or cocotb."

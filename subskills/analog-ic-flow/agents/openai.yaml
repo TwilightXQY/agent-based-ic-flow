@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analog IC Flow"
+  short_description: "Guide schematic, SPICE, and layout flow"
+  default_prompt: "Use $analog-ic-flow to plan schematic, simulation, or layout work for an analog or custom IC block."
